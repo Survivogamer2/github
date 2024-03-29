@@ -4,8 +4,11 @@ Trabalho unifebe
 <h2>Sobre mim</h2>
 
 <h3>Nome:Samuel Henrique Andrade de lima
+  <br>
 idade:20 anos
+  <br>
 sexo:masculino
+  <br>
 </h3>
 
 <h2>Biografia</h2>
